@@ -1,4 +1,4 @@
-# Library Management System
+# Test Code for a Library Management System
 
 This project is here to demonstrate my skills in project test writing, it is a 
 simple library management system that allows users to borrow and return books. 
