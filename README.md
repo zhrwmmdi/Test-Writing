@@ -5,6 +5,27 @@ simple library management system that allows users to borrow and return books.
 It demonstrates basic object-oriented programming concepts in Python, with an 
 emphasis on unit testing.
 
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contact Information](#contact-information)
+
+## Introduction
+This project is primarily developed to demonstrate proficiency in writing unit 
+tests. It is a simple Library Management System that provides functionalities 
+for adding books and users, borrowing and returning books, and tracking the 
+availability of books. Each component of the library management system is 
+accompanied by comprehensive unit tests to ensure the reliability and 
+correctness of the system.
+
+The project leverages Python's unittest framework to create, manage, and run 
+tests, ensuring that all functionalities are working as intended.
+
+
 ## Features
 
 - **Book Management**: Add and manage books in the library.
